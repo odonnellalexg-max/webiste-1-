@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://odonnelllandscaping.com/sitemap.xml
+Sitemap: https://odlandscapeservices.com/sitemap.xml
